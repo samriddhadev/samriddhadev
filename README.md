@@ -15,5 +15,5 @@ I'm a developer passionate about:
 ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
 
 ## 📫 How to reach me
-- 💼 LinkedIn: [linkedin.com/in/samriddhachatterjee]](https://www.linkedin.com/in/samriddhachatterjee/)
+- 💼 LinkedIn: [linkedin.com/in/samriddhachatterjee](https://www.linkedin.com/in/samriddhachatterjee/)
 - 📧 Email: samriddhac.official@gmail.com
