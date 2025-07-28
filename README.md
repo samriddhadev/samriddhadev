@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Samriddha Chatterjee
 
-<!--
-**samriddhadev/samriddhadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer passionate about:
+- 🧪 Open Source
+- 🤖 Generative AI & Machine Learning
+- 🛠️ Platform Engineering
+- ⚙️ DevOps
+- 🌐 Web Development
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=node.js)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
+![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Samriddha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samriddhachatterjee&show_icons=true&hide_title=true&theme=default)
+
+## 📫 How to reach me
+- 💼 LinkedIn: [linkedin.com/in/your-name](https://linkedin.com/in/your-name)](https://www.linkedin.com/in/samriddhachatterjee/)
+- 📧 Email: samriddhac.official@gmail.com
