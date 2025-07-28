@@ -14,9 +14,6 @@ I'm a developer passionate about:
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
 ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
 
-## 📈 GitHub Stats
-![Samriddha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samriddhachatterjee&show_icons=true&hide_title=true&theme=default)
-
 ## 📫 How to reach me
-- 💼 LinkedIn: [linkedin.com/in/your-name](https://linkedin.com/in/your-name)](https://www.linkedin.com/in/samriddhachatterjee/)
+- 💼 LinkedIn: [linkedin.com/in/samriddhachatterjee]](https://www.linkedin.com/in/samriddhachatterjee/)
 - 📧 Email: samriddhac.official@gmail.com
